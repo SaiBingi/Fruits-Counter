@@ -1,5 +1,3 @@
-// Published URL  ==>  https://saiFruitsCntr.ccbp.tech
-
 import {Component} from 'react'
 
 import './index.css'
